@@ -1,0 +1,34 @@
+Computer Name: WINDOW11
+Date and Time: Mon Jun  9 04:06:38 2025
+Keylogger started.
+Keylogger is running. Press ESC to stop or wait 2 minutes...
+
+[WINDOW]: Keylogger.cpp - C++_K - Visual Studio Code
+A key has been pressed: [ESC]
+Keylogger stopped by user (ESC).
+Keylogger stopped.
+Computer Name: WINDOW11
+Date and Time: Mon Jun  9 04:07:42 2025
+Keylogger started.
+Keylogger is running. Press ESC to stop or wait 2 minutes...
+
+[WINDOW]: Keylogger.cpp - C++_K - Visual Studio Code
+A key has been pressed: h
+A key has been pressed: h
+A key has been pressed: h
+A key has been pressed: h
+A key has been pressed: [SPACE]
+A key has been pressed: j
+A key has been pressed: e
+A key has been pressed: [SPACE]
+A key has been pressed: s
+A key has been pressed: u
+A key has been pressed: i
+A key has been pressed: s
+A key has been pressed: [SPACE]
+A key has been pressed: l
+A key has been pressed: a
+A key has been pressed: [SPACE]
+A key has been pressed: [ESC]
+Keylogger stopped by user (ESC).
+Keylogger stopped.
