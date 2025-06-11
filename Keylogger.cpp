@@ -223,6 +223,16 @@ void keyrunner(int argc, char* argv[]){
     infile.close();
 
     cout << "\nProcessed sequence:\n" << processedText << endl;
+    
+    ofstream outfile("keylog.txt", ios ::out | ios::app);
+    if (!outfile){
+        outfile << "Error opening keylog file" << endl;
+    }
+    else{
+        outfile << "\nProcessed sequence:\n" << processedText << endl;
+        outfile.flush();
+        outfile.close();
+    }
     return;
 }
 

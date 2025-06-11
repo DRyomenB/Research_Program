@@ -32,3 +32,112 @@ A key has been pressed: [SPACE]
 A key has been pressed: [ESC]
 Keylogger stopped by user (ESC).
 Keylogger stopped.
+Computer Name: WINDOW11
+Date and Time: Mon Jun  9 05:04:32 2025
+Keylogger started.
+Keylogger is running. Press ESC to stop or wait 2 minutes...
+
+[WINDOW]: Keylogger.cpp - C++_K - Visual Studio Code
+A key has been pressed: [KEYCODE 160]
+A key has been pressed: [KEYCODE 160]
+A key has been pressed: [KEYCODE 160]
+A key has been pressed: [KEYCODE 160]
+A key has been pressed: [KEYCODE 160]
+A key has been pressed: [KEYCODE 160]
+A key has been pressed: [KEYCODE 160]
+A key has been pressed: [KEYCODE 160]
+A key has been pressed: [KEYCODE 160]
+A key has been pressed: [KEYCODE 160]
+A key has been pressed: [KEYCODE 160]
+A key has been pressed: [KEYCODE 160]
+A key has been pressed: [KEYCODE 160]
+A key has been pressed: [KEYCODE 160]
+A key has been pressed: [KEYCODE 160]
+A key has been pressed: [KEYCODE 160]
+A key has been pressed: [KEYCODE 160]
+A key has been pressed: [KEYCODE 160]
+A key has been pressed: [KEYCODE 160]
+A key has been pressed: [KEYCODE 160]
+A key has been pressed: [KEYCODE 160]
+A key has been pressed: [KEYCODE 160]
+A key has been pressed: [KEYCODE 160]
+A key has been pressed: [KEYCODE 160]
+A key has been pressed: [KEYCODE 160]
+A key has been pressed: [KEYCODE 160]
+A key has been pressed: [KEYCODE 160]
+A key has been pressed: [KEYCODE 160]
+A key has been pressed: [KEYCODE 160]
+A key has been pressed: [KEYCODE 160]
+A key has been pressed: [KEYCODE 160]
+A key has been pressed: [KEYCODE 160]
+A key has been pressed: [KEYCODE 160]
+A key has been pressed: [KEYCODE 160]
+A key has been pressed: l
+A key has been pressed: o
+A key has been pressed: l
+A key has been pressed: q
+A key has been pressed: w
+A key has been pressed: e
+A key has been pressed: r
+A key has been pressed: t
+A key has been pressed: y
+A key has been pressed: u
+A key has been pressed: i
+A key has been pressed: o
+A key has been pressed: p
+
+[WINDOW]: New tab and 4 more pages - Personal - Microsoft? Edge
+A key has been pressed: [KEYCODE 160]
+A key has been pressed: [KEYCODE 160]
+A key has been pressed: [KEYCODE 160]
+A key has been pressed: [KEYCODE 160]
+A key has been pressed: [KEYCODE 160]
+A key has been pressed: [KEYCODE 160]
+A key has been pressed: [KEYCODE 160]
+A key has been pressed: [KEYCODE 160]
+A key has been pressed: [KEYCODE 160]
+A key has been pressed: [KEYCODE 160]
+A key has been pressed: [KEYCODE 160]
+A key has been pressed: [KEYCODE 160]
+A key has been pressed: M
+A key has been pressed: c
+A key has been pressed: o
+A key has been pressed: e
+A key has been pressed: d
+A key has been pressed: l
+A key has been pressed: [ENTER]
+
+[WINDOW]: Keylogger.cpp - C++_K - Visual Studio Code
+A key has been pressed: [ESC]
+Keylogger stopped by user (ESC).
+Keylogger stopped.
+Computer Name: WINDOW11
+Date and Time: Wed Jun 11 12:43:55 2025
+Keylogger started.
+Keylogger is running. Press ESC to stop or wait 2 minutes...
+
+[WINDOW]: Keylogger.cpp - C++_K - Visual Studio Code
+A key has been pressed: h
+A key has been pressed: h
+A key has been pressed: h
+A key has been pressed: h
+A key has been pressed: [ESC]
+Keylogger stopped by user (ESC).
+Keylogger stopped.
+
+Processed sequence:
+hhhh je suis la lolqwertyuiopMcoedl
+hhhh
+Computer Name: WINDOW11
+Date and Time: Wed Jun 11 12:51:22 2025
+Keylogger started.
+Keylogger is running. Press ESC to stop or wait 2 minutes...
+
+[WINDOW]: Keylogger.cpp - C++_K - Visual Studio Code
+A key has been pressed: [ESC]
+Keylogger stopped by user (ESC).
+Keylogger stopped.
+
+Processed sequence:
+hhhh je suis la lolqwertyuiopMcoedl
+hhhh
